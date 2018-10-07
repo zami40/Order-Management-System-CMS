@@ -1,0 +1,35 @@
+﻿body {
+}
+.DashBoardBtn {
+    background-color:#660066;
+    border-color: #660033;
+    color:white;
+}
+.DashBoardBtn:hover {
+    border-color:green;  
+    color:yellow;  
+}
+.DashBoardBtn:active {
+    background-color: #808080;
+}
+.linkBtn {
+    
+    text-decoration:initial;
+}
+.linkBtn:hover {
+    text-decoration:underline;
+}
+/*.listBox {
+    color:yellow;
+    font-size: large;
+    outline-color:red;
+}
+.listBox:active {
+    font-size:50px;
+}*/
+.strAdDblist {
+    background-color:lime;
+}
+.strAdDblist:visited {
+        
+}
